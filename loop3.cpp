@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout << "Aryan Kumar is best...";
+    cout << "ayushi love aryan.";
     return 0;
 }
